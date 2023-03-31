@@ -14,7 +14,7 @@ school_spending_df
 contains some code taken from [this page](https://stackoverflow.com/questions/75808415/why-am-i-getting-typeerror-not-supported-between-instances-of-int-and-st). 
 
 # Charts
-## The initial Data Set
+## The Initial Data Set
 ![initial_df](images/1_df.png)
 ## District Summary
 ![district summary](images/2_district_summary.png)
